@@ -1,0 +1,36 @@
+#interaction-tracker-card {
+    background-color: rgba(255, 255, 255, 0.9);
+    border-radius: 4px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    padding: 15px;
+    width: 200px;
+    font-family: Arial, sans-serif;
+  }
+  
+  #interaction-tracker-card h4 {
+    margin: 0;
+    margin-bottom: 10px;
+    font-size: 16px;
+  }
+  
+  #interaction-tracker-card ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+  #interaction-tracker-card li {
+    font-size: 14px;
+    margin-bottom: 5px;
+  }
+  
+  #interaction-tracker-card button {
+    margin-top: 10px;
+    padding: 5px 10px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+  }
+  
